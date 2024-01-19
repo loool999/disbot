@@ -1,0 +1,24 @@
+{
+  "name": "llll",
+  "version": "1.0.0",
+  "description": "no",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "educational",
+    "math",
+    "science",
+    "spanish",
+    "classroom"
+  ],
+  "author": "that kid",
+  "license": "ISC",
+  "dependencies": {
+    "bare-server-node": "github:tomphttp/bare-server-node",
+    "node-static": "^0.7.11"
+  }
+}
